@@ -32,7 +32,8 @@
       "execution_count": 1,
       "metadata": {
         "colab": {
-          "base_uri": "https://localhost:8080/"
+          "base_uri": "https://localhost:8080/",
+          "height": 0
         },
         "id": "fc3mWKrcUZRJ",
         "outputId": "7ca4d8c1-583c-4547-df26-fa886db0493a"
